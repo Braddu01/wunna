@@ -1,0 +1,5 @@
+n = int(input("entier n"))
+    for i in range(n)
+       a=a+1
+print(a)
+print(n*(n+1)//2)
