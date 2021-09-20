@@ -1,0 +1,4 @@
+print("calcul de 2*2*2*n*2 :")
+n = int(input("   valeur de n?"))
+print("Resultat  :")
+print(2*2*2*n*2)
